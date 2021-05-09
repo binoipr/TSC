@@ -1,0 +1,26 @@
+// let myString: string;
+//const myString: string = "Hello John";
+var myString;
+myString = "Hello John";
+// console.log(myString);
+var myNo;
+myNo = 0xff;
+// console.log(myNo);
+var myStr;
+myStr = "Hai" + " " + 6;
+// console.log(myStr);
+var myBool;
+myBool = false;
+// console.log(myBool);
+var myTupid;
+myTupid = ["Hello", 9];
+console.log(myTupid);
+// Array declaration
+var str;
+var str1;
+var numArr;
+var numArr1;
+var boolArr;
+var boolArr1;
+boolArr = [true, false, true, false, false];
+console.log(boolArr);
